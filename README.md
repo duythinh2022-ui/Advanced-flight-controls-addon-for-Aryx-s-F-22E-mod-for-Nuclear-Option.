@@ -1,4 +1,4 @@
-AI disclosure: This mod is entirely written by AI, since idk how to write code lol, mainly Claude Opus 5 (feel free to call this AI slop if you like 🙂)
+AI disclosure: This mod is entirely written by AI, since idk how to write code lol, mainly Claude Opus 5 (feel free to call this AI slop if you like 🙂). Feel free to make modifications or new mods based on this mod
 *NOTE: this mod is my side fun project and WIP, issues and problems are expected
 
 Many if not all mod and stock planes in NO have very basic flight control laws, with simple pitch/roll/yaw command and AoA G limit. 
@@ -46,3 +46,5 @@ Planned feature(s):
 -Auto limiting AoA command as asymmetric loadout exceeds the correction authority of control surfaces for departure protection.
 
 2 versions of this mods, stock performance with slightly tweaks aerodynamics. Buffed, aero tweaks with 10x flare count, 50% more ew capacity, 20% faster ew recharge speed, 2x more 20mm rounds, 8% more thrust, 25% less fuel consumption across all throttle settings, and 10 less parasitic drag.
+
+*INSTALATION: Download along side with Aryx's F-22 .dll file, make sure that both .dlls are running at the same time
