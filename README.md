@@ -1,4 +1,5 @@
 AI disclosure: This mod is entirely written by AI, since idk how to write code lol, mainly Claude Opus 5 (feel free to call this AI slop if you like 🙂)
+*NOTE: this mod is my side fun project and WIP, issues and problems are expected
 
 Many if not all mod and stock planes in NO have very basic flight control laws, with simple pitch/roll/yaw command and AoA G limit. 
 This mod is specifically made for Aryx’s F-22E mod to replace the FCS and with some minor CoM and Aerodynamics tweaks. 
