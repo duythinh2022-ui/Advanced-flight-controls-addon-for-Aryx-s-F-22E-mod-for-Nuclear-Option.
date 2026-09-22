@@ -44,3 +44,5 @@ Overview list of control laws:
 Planned feature(s): 
 
 -Auto limiting AoA command as asymmetric loadout exceeds the correction authority of control surfaces for departure protection.
+
+2 versions of this mods, stock performance with slightly tweaks aerodynamics. Buffed, aero tweaks with 10x flare count, 50% more ew capacity, 20% faster ew recharge speed, 2x more 20mm rounds, 8% more thrust, and 10 less parasitic drag.
