@@ -25,7 +25,7 @@ Overview list of control laws:
 -Roll/Yaw: pure rate command, as AoA increases, roll will introduce more yaw into the same direction.
 	+Past 40 degrees of AoA, roll and yaw input starts to blend and become unified as the same control axis. 
 
--Flaps: reduced scheduling based on airspeed, dynamically deployed to minimize AoA and disengage as aoa increases.
+-Flaps: reduced scheduling based on airspeed, dynamically deployed to minimize AoA and disengage as aoa increases, preventing wing local AoA increase. 
 
 *Rolling on flaperons are prioritized over flaps to maximize roll authority at low airspeed.
 
