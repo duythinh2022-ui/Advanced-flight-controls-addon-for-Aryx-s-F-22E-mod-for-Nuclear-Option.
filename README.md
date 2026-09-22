@@ -5,7 +5,7 @@ Many if not all mod and stock planes in NO have very basic flight control laws, 
 This mod is specifically made for Aryx’s F-22E mod to replace the FCS and with some minor CoM and Aerodynamics tweaks. 
 Link to Aryx’s F-22E: https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor
 
-This mod replaces the basic FCS with AoA command, G command, roll/yaw blending at high AoA, and carefree handling across the flight regime. 
+This mod replaces the basic FCS with AoA command, G command, roll/yaw blending at high AoA, and carefree handling across the flight regime. This mod is not aimed to be accurate to the irl Raptor Flight controls, but it strictly follows the general concept of most modern FLy-By-Wire fighters based on the interpretation of my understanding on this topic.
 
 Overview list of control laws:
 
