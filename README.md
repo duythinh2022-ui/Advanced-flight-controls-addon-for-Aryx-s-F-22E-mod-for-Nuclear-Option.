@@ -44,7 +44,7 @@ Overview list of control laws:
 
 Planned feature(s): 
 
--Auto limiting AoA command as asymmetric loadout exceeds the correction authority of control surfaces for departure protection.
+-(Done)Auto limiting AoA command as asymmetric loadout exceeds the correction authority of control surfaces for departure protection.
 
 -Accurate control surfaces braking for landing.
 
