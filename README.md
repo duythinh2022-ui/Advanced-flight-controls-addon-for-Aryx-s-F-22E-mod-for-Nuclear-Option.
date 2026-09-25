@@ -48,7 +48,7 @@ Planned feature(s):
 
 -Accurate control surfaces braking for landing.
 
--Accurate TVC nozzle animations (maybe?)
+-(Done) Accurate TVC nozzle animations (maybe?)
 
 
 2 versions of this mods, stock performance with slightly tweaked aerodynamics. Buffed, aero tweaks with 10x flare count, 50% more ew capacity, 20% faster ew recharge speed, 2x more 20mm rounds, 8% more thrust, 25% less fuel consumption across all throttle settings, and 11.5% less parasitic drag.
