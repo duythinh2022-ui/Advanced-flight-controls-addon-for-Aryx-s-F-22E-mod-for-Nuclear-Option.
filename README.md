@@ -8,6 +8,7 @@ Link to Aryx’s F-22E: https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor
 This mod replaces the basic FCS with AoA command, G command, roll/yaw blending at high AoA, and carefree handling across the flight regime. This mod is not aimed to be accurate to the irl Raptor Flight controls, but it strictly follows the general concept of most modern FLy-By-Wire fighters based on the interpretation of my understanding on this topic.
 
 Overview list of control laws:
+ -Vertical control laws: the FCS will blend G cmd at high airspeed, low airspeed will use AoA cmd, and pitch rate cmd for high AoA post stall maneuvering
 
  -AoA cmd: mapping AoA request directly to the pilot’s stick position at low airspeed, the FCS will calculate the pitch rate needed to reach and sustain the pilot commanded AoA within the available pitch rate budget.
 	+Stick position mapped to AoA request.
