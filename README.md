@@ -9,7 +9,7 @@ This mod replaces the basic FCS with AoA command, G command, roll/yaw blending a
 
 Overview list of control laws:
  
- -Vertical control laws: the FCS will blend G cmd at high airspeed, low airspeed will use AoA cmd, and pitch rate cmd for high AoA post stall maneuvering
+ -Pitch axis control laws: the FCS will blend G cmd at high airspeed, low airspeed will use AoA cmd, and pitch rate cmd for high AoA post stall maneuvering
 
  -AoA cmd: mapping AoA request directly to the pilot’s stick position at low airspeed, the FCS will calculate the pitch rate needed to reach and sustain the pilot commanded AoA within the available pitch rate budget.
 	+Stick position mapped to AoA request.
