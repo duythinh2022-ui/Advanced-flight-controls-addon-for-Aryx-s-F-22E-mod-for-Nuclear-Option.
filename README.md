@@ -58,3 +58,7 @@ Planned feature(s):
 2 versions of this mods, stock performance with slightly tweaked aerodynamics. Buffed, aero tweaks with 10x flare count, 50% more ew capacity, 20% faster ew recharge speed, 2x more 20mm rounds, 8% more thrust, 25% less fuel consumption across all throttle settings, and 11.5% less parasitic drag.
 
 *INSTALATION: Download along side with Aryx's F-22 .dll file, make sure that both .dlls are running at the same time
+
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE)
